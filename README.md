@@ -12,8 +12,9 @@
 - **Also worked with:** R, Prolog, PDDL, Mathematica
 - **Data Science:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib, Seaborn  
 - **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
-- **Databases & Data Storage:** PostgreSQL, MongoDB, Elasticsearch
+- **Databases:** PostgreSQL, MongoDB, Elasticsearch
 - **Other:** Linux, Jupyter, Git, Docker, LaTeX
+- **Languages:** English, Czech, Russian
 
 ---
 
