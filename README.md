@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Artur 👋
 
-<!--
-**arturfarrakhovx/arturfarrakhovx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 B.Sc. in Artificial Intelligence, now pursuing M.Sc. in Data Science & Artificial Intelligence ([FIT CTU](https://fit.cvut.cz/) in Prague)  
+- 💡 Interested in Machine Learning, Data Analysis, and Applied AI  
+- 🔍 Looking for opportunities to apply my skills in real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Programming:** Python, C, C++, SQL
+- **Also worked with:** R, Prolog, PDDL, Mathematica
+- **Data Science:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib, Seaborn  
+- **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
+- **Databases & Data Storage:** PostgreSQL, MongoDB, Elasticsearch
+- **Other:** Linux, Jupyter, Git, LaTeX
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [www.linkedin.com/in/arturfarrakhovx](https://www.linkedin.com/in/arturfarrakhovx)  
+- **Email:** [arturfarrakhovx@gmail.com](mailto:arturfarrakhovx@gmail.com)
