@@ -13,7 +13,7 @@
 - **Data Science:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib, Seaborn  
 - **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
 - **Databases & Data Storage:** PostgreSQL, MongoDB, Elasticsearch
-- **Other:** Linux, Jupyter, Git, LaTeX
+- **Other:** Linux, Jupyter, Git, Docker, LaTeX
 
 ---
 
